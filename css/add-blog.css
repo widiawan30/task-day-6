@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: aliceblue;
+    background-color: rgb(227, 231, 235);
     box-sizing: border-box;
   }
   
@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #dbdbdb;
+    background-color:#dbdbdb;
     padding: 0 40px;
   }
   
